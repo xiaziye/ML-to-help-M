@@ -7,5 +7,4 @@ Steps:
 
 2. Run `arxivPaperDownload.py` to download paper
 
-3. Run `downloadedArxivRename.py` to rename the downloaded papers with their title. 
 
